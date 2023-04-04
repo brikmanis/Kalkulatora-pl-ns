@@ -16,3 +16,7 @@ const Multiply = (cipars1, cipars2) => {
 const Divide = (cipars1, cipars2) => {
     return cipars1 / cipars2
 }
+
+plusins.addEventListener('click', () => {
+    console.log("Mani nospieda")
+})

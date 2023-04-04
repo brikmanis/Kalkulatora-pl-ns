@@ -1,5 +1,9 @@
 const plusins = document.querySelector('.js-plus');
-const inputins = document.querySelector('.js-input');
+const multiply = document.querySelector('.js-multiply');
+const minus = document.querySelector('.js-minus');
+const divide = document.querySelector('.js-divide');
+const inputins1 = document.querySelector('.js-input1');
+const inputins2 = document.querySelector('.js-input2');
 
 const Add = (cipars1, cipars2) => {
     return cipars1 + cipars2
